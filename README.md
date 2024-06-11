@@ -1,0 +1,2 @@
+# opendata_opensource_estpcourse
+opendata_opensource_estpcourse 3-7 Haziran tarihleri arasında gerçekleştirilen eğitim içeriği için oluşturulmuştur.
